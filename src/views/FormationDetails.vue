@@ -342,6 +342,7 @@ import Header from '../components/Header.vue'
 import FormatSelector from '../components/FormatSelector.vue'
 import formationsData from '../data/formations.json'
 import { calculateDuration, countSessions, getJoursByFormat } from '../utils/formationUtils'
+import { API_BASE_URL } from '../config/api.js'
 
 const route = useRoute()
 const router = useRouter()
@@ -418,7 +419,7 @@ const getActivityTypeLabel = (type) => {
 const downloadPDF = () => {
   // This will call the backend API to generate and download the PDF
   const formatId = selectedFormat.value || formation.value.formatParDefaut
-  window.location.href = `http://localhost:3003/api/generate-pdf/${formation.value.id}?format=${formatId}`
+  window.location.href = `${API_BASE_URL}/generate-pdf/${formation.value.id}?format=${formatId}`
 }
 
 onMounted(() => {

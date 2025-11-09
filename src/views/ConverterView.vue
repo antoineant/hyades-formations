@@ -212,6 +212,7 @@
 <script setup>
 import { ref, computed } from 'vue'
 import Header from '../components/Header.vue'
+import { API_BASE_URL } from '../config/api.js'
 
 const fileInput = ref(null)
 const fileName = ref('')
@@ -279,7 +280,7 @@ const convertWorkshop = async () => {
     const workshopData = JSON.parse(inputJson.value)
 
     // Call API
-    const response = await fetch('http://localhost:3003/api/convert-workshop', {
+    const response = await fetch(`${API_BASE_URL}/convert-workshop`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -336,7 +337,7 @@ const addToHyades = async () => {
   try {
     const formation = convertedData.value.formations[0]
 
-    const response = await fetch('http://localhost:3003/api/add-formation', {
+    const response = await fetch(`${API_BASE_URL}/add-formation`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
