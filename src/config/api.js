@@ -5,9 +5,7 @@ const API_CONFIG = {
     baseURL: 'http://localhost:3003/api'
   },
   production: {
-    // TODO: Replace with your production backend URL once deployed
-    // Example: baseURL: 'https://your-backend.onrender.com/api'
-    baseURL: 'http://localhost:3003/api' // Temporary - update after backend deployment
+    baseURL: 'https://hyades-formations-backend.onrender.com/api'
   }
 }
 
