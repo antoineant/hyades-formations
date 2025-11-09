@@ -1,0 +1,2617 @@
+{
+  "formations": [
+    {
+      "id": "5ba565b2-12bf-4626-9607-30cddda6abb2",
+      "titre": "Leadership en Action : Prise de Parole et Animation de Projets pour Managers",
+      "description": "Formation intensive pour managers d'équipe souhaitant renforcer leurs compétences en communication orale et en animation de projets. Combinaison de techniques de prise de parole en public, d'animation de réunions et de pilotage de projets d'équipe pour maximiser l'engagement et les résultats.",
+      "publicCible": "Managers d'équipe et chefs de projet encadrant des équipes opérationnelles",
+      "formatParDefaut": "4j",
+      "formats": {
+        "4j": {
+          "id": "4j",
+          "titre": "Formation complète 4 jours",
+          "description": "Programme complet avec mise en pratique et plan d'action personnel",
+          "joursInclus": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "3j": {
+          "id": "3j",
+          "titre": "Version intermédiaire 3 jours",
+          "description": "Formation approfondie incluant le pilotage de projet",
+          "joursInclus": [
+            1,
+            2,
+            3
+          ]
+        },
+        "2j": {
+          "id": "2j",
+          "titre": "Version intensive 2 jours",
+          "description": "Formation concentrée sur les fondamentaux de la prise de parole et l'animation de réunions",
+          "joursInclus": [
+            1,
+            2
+          ]
+        }
+      },
+      "prerequis": "Encadrer une équipe ou piloter des projets",
+      "modaliteAcces": "Formation en présentiel",
+      "effectif": "8 à 12 participants",
+      "accessibilite": "Accessible aux personnes à mobilité réduite",
+      "objectifs": [
+        "Maîtriser les techniques de prise de parole en public adaptées au contexte managérial",
+        "Structurer et animer des réunions d'équipe productives et engageantes",
+        "Piloter un projet d'équipe de bout en bout avec des outils pratiques",
+        "Gérer les situations complexes et les dynamiques de groupe",
+        "Développer sa posture de leader communicant"
+      ],
+      "jours": [
+        {
+          "numero": 1,
+          "titre": "Fondamentaux de la Prise de Parole Managériale",
+          "description": "Maîtriser les bases de la communication orale efficace",
+          "duree": "3h30",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Les Fondations : Structure et Présence",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre les éléments constitutifs d'une communication managériale efficace",
+                "Expérimenter l'impact de la structure sur la clarté du message",
+                "Prendre conscience de sa présence physique et vocale actuelle"
+              ],
+              "activites": [
+                {
+                  "titre": "Les 3 piliers de la prise de parole managériale : Fond, Forme, Présence",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Diagnostic express : « Ma prise de parole en 2 minutes »",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Atelier structuration : méthode PREP (Point, Raison, Exemple, Point)",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Débriefing collectif",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Auto-évaluation guidée",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Maîtriser son Stress et son Corps",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Expérimenter 3-4 techniques concrètes de gestion du stress",
+                "Comprendre le lien entre état émotionnel, respiration et qualité vocale",
+                "Développer une gestuelle et posture congruentes"
+              ],
+              "activites": [
+                {
+                  "titre": "Neurosciences du stress",
+                  "type": "presentation",
+                  "duree": "20min"
+                },
+                {
+                  "titre": "Laboratoire de techniques anti-stress",
+                  "type": "exercise",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Atelier voix et corps",
+                  "type": "workshop",
+                  "duree": "70min"
+                },
+                {
+                  "titre": "Challenge : re-présentation",
+                  "type": "exercise",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Construction protocole personnel anti-stress",
+                  "type": "reflection",
+                  "duree": "20min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Situations Managériales Réelles",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Adapter sa communication aux situations managériales",
+                "Intégrer l'ensemble des techniques",
+                "Recevoir et donner du feedback constructif selon DESC"
+              ],
+              "activites": [
+                {
+                  "titre": "Cartographie des situations managériales",
+                  "type": "presentation",
+                  "duree": "25min"
+                },
+                {
+                  "titre": "Co-création de templates",
+                  "type": "workshop",
+                  "duree": "55min"
+                },
+                {
+                  "titre": "Mises en situation",
+                  "type": "exercise",
+                  "duree": "80min"
+                },
+                {
+                  "titre": "Retours croisés",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Plan d'action personnel",
+                  "type": "reflection",
+                  "duree": "10min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titre": "Animation de Réunions et Ateliers Projet",
+          "description": "Conduire des réunions productives et faciliter la collaboration",
+          "duree": "3h30",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Fondamentaux de l'Animation : Structure et Méthodes",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Maîtriser la structure d'une réunion efficace",
+                "Utiliser les techniques de facilitation",
+                "Gérer le temps et maintenir l'engagement"
+              ],
+              "activites": [
+                {
+                  "titre": "Anatomie d'une réunion réussie",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Techniques de facilitation",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Simulation : animer une réunion d'équipe",
+                  "type": "exercise",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Feedback et amélioration continue",
+                  "type": "discussion",
+                  "duree": "35min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Gérer les Dynamiques de Groupe et Situations Complexes",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier et gérer les comportements difficiles",
+                "Transformer les conflits en opportunités",
+                "Maintenir la dynamique positive du groupe"
+              ],
+              "activites": [
+                {
+                  "titre": "Psychologie des groupes",
+                  "type": "presentation",
+                  "duree": "25min"
+                },
+                {
+                  "titre": "Études de cas : situations complexes",
+                  "type": "workshop",
+                  "duree": "70min"
+                },
+                {
+                  "titre": "Jeux de rôles : gestion de conflits",
+                  "type": "exercise",
+                  "duree": "65min"
+                },
+                {
+                  "titre": "Boîte à outils anti-blocage",
+                  "type": "reflection",
+                  "duree": "20min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Ateliers Collaboratifs et Animation Avancée",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Animer des ateliers de co-création",
+                "Utiliser des méthodes d'intelligence collective",
+                "Maximiser la créativité et l'innovation"
+              ],
+              "activites": [
+                {
+                  "titre": "Méthodes d'intelligence collective",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier Design Sprint",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Pratique : facilitation créative",
+                  "type": "exercise",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Synthèse et retours d'expérience",
+                  "type": "discussion",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titre": "Pilotage et Communication de Projet",
+          "description": "Intégrer les compétences de prise de parole dans le pilotage opérationnel",
+          "duree": "4h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Cadrage et Lancement de Projet",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Définir et communiquer la vision du projet",
+                "Mobiliser l'équipe autour des objectifs",
+                "Établir un cadre de travail clair"
+              ],
+              "activites": [
+                {
+                  "titre": "Méthodologie de cadrage projet",
+                  "type": "presentation",
+                  "duree": "35min"
+                },
+                {
+                  "titre": "Atelier : rédaction de charte projet",
+                  "type": "workshop",
+                  "duree": "70min"
+                },
+                {
+                  "titre": "Simulation : kick-off meeting",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Débriefing et ajustements",
+                  "type": "discussion",
+                  "duree": "35min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Communication aux Parties Prenantes",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Adapter sa communication selon les parties prenantes",
+                "Présenter efficacement l'avancement du projet",
+                "Gérer les attentes et négocier"
+              ],
+              "activites": [
+                {
+                  "titre": "Cartographie des parties prenantes",
+                  "type": "presentation",
+                  "duree": "25min"
+                },
+                {
+                  "titre": "Techniques de storytelling projet",
+                  "type": "workshop",
+                  "duree": "55min"
+                },
+                {
+                  "titre": "Simulations : comités de pilotage",
+                  "type": "exercise",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Retours croisés et best practices",
+                  "type": "discussion",
+                  "duree": "25min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Pilotage et Communication d'Avancement",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Mettre en place des rituels de suivi efficaces",
+                "Communiquer sur les risques et problèmes",
+                "Maintenir la motivation de l'équipe"
+              ],
+              "activites": [
+                {
+                  "titre": "Outils de pilotage et reporting",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Construction de tableaux de bord",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Jeux de rôles : gestion de crise",
+                  "type": "exercise",
+                  "duree": "65min"
+                },
+                {
+                  "titre": "Plan de communication projet",
+                  "type": "reflection",
+                  "duree": "25min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titre": "Mise en Pratique et Plan d'Action Personnel",
+          "description": "Synthétiser les apprentissages et construire son plan d'action",
+          "duree": "3h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Simulations Intégrées",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Intégrer toutes les compétences travaillées",
+                "Gérer des situations managériales complexes",
+                "Recevoir un feedback 360°"
+              ],
+              "activites": [
+                {
+                  "titre": "Préparation des scénarios personnalisés",
+                  "type": "presentation",
+                  "duree": "20min"
+                },
+                {
+                  "titre": "Simulations complexes en conditions réelles",
+                  "type": "exercise",
+                  "duree": "120min"
+                },
+                {
+                  "titre": "Débriefing approfondi",
+                  "type": "discussion",
+                  "duree": "40min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Gestion de Crise et Communication d'Urgence",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Communiquer efficacement en situation de crise",
+                "Prendre des décisions sous pression",
+                "Maintenir la cohésion d'équipe dans l'adversité"
+              ],
+              "activites": [
+                {
+                  "titre": "Protocoles de communication de crise",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Simulations de crise",
+                  "type": "exercise",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Analyse et retours d'expérience",
+                  "type": "discussion",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Construction kit de survie manager",
+                  "type": "reflection",
+                  "duree": "20min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Synthèse et Plan d'Action Personnel",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Consolider les apprentissages clés",
+                "Élaborer son plan de développement personnel",
+                "S'engager dans une démarche d'amélioration continue"
+              ],
+              "activites": [
+                {
+                  "titre": "Bilan des compétences développées",
+                  "type": "presentation",
+                  "duree": "25min"
+                },
+                {
+                  "titre": "Construction du plan d'action personnel",
+                  "type": "workshop",
+                  "duree": "70min"
+                },
+                {
+                  "titre": "Partage des engagements et peer-coaching",
+                  "type": "discussion",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Clôture et évaluation de la formation",
+                  "type": "reflection",
+                  "duree": "35min"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "demarchePedagogique": {
+        "methodes": [
+          "Pédagogie active et expérientielle",
+          "Mises en situation et jeux de rôles",
+          "Ateliers collaboratifs",
+          "Feedback 360° et peer-learning",
+          "Apports théoriques ciblés"
+        ],
+        "moyens": [
+          "Vidéos de mise en situation",
+          "Enregistrements et auto-analyse",
+          "Supports visuels et outils digitaux",
+          "Boîte à outils managériaux"
+        ],
+        "evaluation": [
+          "Auto-évaluation en début et fin de formation",
+          "Évaluations formatives après chaque session",
+          "Simulations évaluées",
+          "Plan d'action personnel"
+        ],
+        "formateur": "Consultant expert en management et communication, certifié en facilitation et coaching",
+        "sanction": "Attestation de formation",
+        "edition": "Édition 1 - Novembre 2025"
+      }
+    },
+    {
+      "id": "a46cb86a-ef47-413a-a465-868ccdeee349",
+      "titre": "Médiation Managériale : Transformer les Conflits en Opportunités",
+      "description": "Formation intensive pour développer les compétences de médiation des managers. Apprenez à détecter, prévenir et résoudre les conflits d'équipe tout en renforçant la cohésion et la performance collective.",
+      "publicCible": "Managers d'équipes, responsables de service, chefs de projet gérant des équipes de 5 personnes ou plus",
+      "formatParDefaut": "3j",
+      "formats": {
+        "3j": {
+          "id": "3j",
+          "titre": "Formation complète 3 jours",
+          "description": "Programme complet avec mise en pratique et plan d'action personnel",
+          "joursInclus": [
+            1,
+            2,
+            3
+          ]
+        },
+        "2j": {
+          "id": "2j",
+          "titre": "Version intensive 2 jours",
+          "description": "Formation concentrée sur les fondamentaux",
+          "joursInclus": [
+            1,
+            2
+          ]
+        }
+      },
+      "prerequis": "Aucun prérequis spécifique",
+      "modaliteAcces": "Formation en présentiel",
+      "effectif": "8 à 12 participants",
+      "accessibilite": "Accessible aux personnes à mobilité réduite",
+      "objectifs": [
+        "Identifier et catégoriser les différents types de conflits en milieu professionnel",
+        "Analyser les mécanismes de formation et d'escalade des tensions d'équipe",
+        "Développer une posture d'observation neutre et d'écoute active pour détecter les signaux faibles",
+        "Comprendre l'impact des conflits non-résolus sur la performance collective et individuelle",
+        "Maîtriser les techniques de communication non-violente (CNV) pour désamorcer les tensions"
+      ],
+      "jours": [
+        {
+          "numero": 1,
+          "titre": "Comprendre les Dynamiques Conflictuelles",
+          "description": "Identifier les sources de conflits en entreprise et comprendre leur impact sur la performance. Développer une posture d'observation et d'écoute active pour détecter les tensions émergentes.",
+          "duree": "8h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Les Fondamentaux du Conflit en Entreprise",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre la nature et les fonctions du conflit dans les organisations",
+                "Distinguer les différents types de conflits et leurs caractéristiques"
+              ],
+              "activites": [
+                {
+                  "titre": "Le conflit : définition, mythes et réalités en contexte managérial",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Partage d'expériences : vos conflits d'équipe les plus marquants",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Typologie des conflits : relationnels, organisationnels, de valeurs, de ressources",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Exercice de classification : identifier le type de 8 scénarios conflictuels",
+                  "type": "exercise",
+                  "duree": "35min"
+                },
+                {
+                  "titre": "Début de la cartographie : lister les conflits de votre équipe par typologie",
+                  "type": "workshop",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Anatomie de l'Escalade Conflictuelle",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Décoder les mécanismes de formation et d'intensification des conflits",
+                "Identifier les facteurs organisationnels et interpersonnels qui alimentent les tensions"
+              ],
+              "activites": [
+                {
+                  "titre": "Le modèle d'escalade de Glasl : des tensions latentes au conflit ouvert",
+                  "type": "presentation",
+                  "duree": "35min"
+                },
+                {
+                  "titre": "Analyse vidéo : repérer les étapes d'escalade dans une situation managériale",
+                  "type": "exercise",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Sources profondes : facteurs organisationnels, culturels et psychologiques des conflits",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier diagnostic : identifier les déclencheurs et facteurs aggravants de vos conflits",
+                  "type": "workshop",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Réflexion individuelle : quel est votre rôle dans la dynamique conflictuelle?",
+                  "type": "reflection",
+                  "duree": "25min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Observation Active et Mesure d'Impact",
+              "duree": "2h30",
+              "objectifsApprentissage": [
+                "Développer une posture d'observation neutre et factuelle",
+                "Mesurer l'impact tangible des conflits sur la performance d'équipe"
+              ],
+              "activites": [
+                {
+                  "titre": "L'écoute active et l'observation non-jugementale : outils du manager-médiateur",
+                  "type": "presentation",
+                  "duree": "25min"
+                },
+                {
+                  "titre": "Jeu de rôle : pratiquer l'observation et la reformulation neutre",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Indicateurs d'impact : mesurer les coûts humains et organisationnels des conflits",
+                  "type": "presentation",
+                  "duree": "20min"
+                },
+                {
+                  "titre": "Finalisation de la cartographie : relations d'équipe et évaluation des impacts",
+                  "type": "workshop",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Restitution croisée : partage et feedback sur les cartographies (groupes de 3)",
+                  "type": "discussion",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titre": "Maîtriser les Techniques de Médiation",
+          "description": "S'approprier les outils de communication non-violente et les méthodes structurées de médiation. Pratiquer l'animation de séances de médiation dans un cadre sécurisé.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Fondamentaux de la Communication Non-Violente et Gestion des Émotions",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "S'approprier les 4 composantes de la CNV (observation, sentiment, besoin, demande)",
+                "Reconnaître et gérer ses propres déclencheurs émotionnels en situation de médiation"
+              ],
+              "activites": [
+                {
+                  "titre": "Les 4 piliers de la CNV appliqués à la médiation managériale",
+                  "type": "presentation",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Transformer des accusations en observations factuelles - Exercices individuels",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier en binômes : Formuler des demandes claires et acceptables",
+                  "type": "workshop",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cartographie de mes déclencheurs émotionnels en situation conflictuelle",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Rédaction des premières ébauches de scripts CNV personnalisés",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Le Processus de Médiation Structuré : De la Préparation à la Conclusion",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Maîtriser les 6 phases du processus de médiation avec leurs objectifs spécifiques",
+                "Développer des stratégies pour chaque phase critique : cadrage, exploration, négociation, engagement"
+              ],
+              "activites": [
+                {
+                  "titre": "Architecture complète d'une séance de médiation : les 6 phases détaillées",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Jeu de rôle en trios : Simulation d'une médiation complète (30min + 15min débriefing)",
+                  "type": "workshop",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Atelier Questions Puissantes : Construire son répertoire de questions pour chaque phase",
+                  "type": "exercise",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Analyser les pièges et impasses : études de cas de médiations difficiles",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Rédaction collaborative : Documenter son processus personnalisé étape par étape",
+                  "type": "workshop",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Auto-évaluation : Mes forces et points de vigilance par phase de médiation",
+                  "type": "reflection",
+                  "duree": "20min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Pratique Intensive et Application aux Cas Réels",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Appliquer l'ensemble des techniques à des situations réelles complexes",
+                "Développer une grille d'analyse systématique pour identifier les dynamiques cachées des conflits"
+              ],
+              "activites": [
+                {
+                  "titre": "Biais cognitifs du médiateur : reconnaître et neutraliser ses angles morts",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Analyse de cas : Décortiquer 3 situations conflictuelles réelles des participants",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Simulations avancées en groupes : Gérer les résistances et personnalités difficiles",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Coaching par les pairs : Finaliser les plans d'action pour situations réelles",
+                  "type": "workshop",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Synthèse individuelle : Compléter et valider mon Guide de Médiation Personnalisé",
+                  "type": "reflection",
+                  "duree": "25min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titre": "Prévenir et Gérer les Situations Complexes",
+          "description": "Développer des stratégies de prévention des conflits et traiter les cas difficiles. Créer un plan d'action personnalisé pour instaurer une culture de dialogue constructif dans son équipe.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Prévention des conflits et signaux d'alerte",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier les signaux faibles et facteurs de risque de conflits dans son équipe",
+                "Concevoir des dispositifs préventifs adaptés à son contexte managérial"
+              ],
+              "activites": [
+                {
+                  "titre": "Les 5 niveaux de prévention des conflits en management",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Cartographie des zones de tension dans mon équipe",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Conception de rituels et espaces de dialogue préventifs",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Retours croisés sur les dispositifs proposés",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Gestion des situations complexes et multi-parties",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques de médiation en situation de conflit multi-parties",
+                "Gérer les émotions intenses et les résistances en médiation"
+              ],
+              "activites": [
+                {
+                  "titre": "Anatomie des conflits complexes : multi-parties, coalitions et alliances",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Simulation : médiation d'un conflit à trois parties",
+                  "type": "exercise",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Gérer les émotions intenses et la résistance au dialogue",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Élaboration de protocoles d'intervention adaptés",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Débriefing collectif : apprentissages et points de vigilance",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Plan d'action et pérennisation de la démarche",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Construire un plan d'action personnalisé et opérationnel de déploiement",
+                "S'engager dans une démarche continue d'amélioration de la culture de dialogue"
+              ],
+              "activites": [
+                {
+                  "titre": "Instaurer une culture de dialogue constructif : du quick-win à la transformation durable",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Construction du plan de déploiement sur 6 mois",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Pitch de son plan d'action (présentation de 5 minutes par participant)",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Feedback collectif et engagement mutuel de suivi",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Bilan personnel et définition de ses prochains pas",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "demarchePedagogique": {
+        "methodes": [
+          "Apports théoriques ciblés",
+          "Feedback 360° et peer-learning",
+          "Mises en situation et jeux de rôles",
+          "Ateliers collaboratifs",
+          "Pédagogie active et expérientielle"
+        ],
+        "moyens": [
+          "Supports visuels et outils digitaux",
+          "Boîte à outils pratiques"
+        ],
+        "evaluation": [
+          "Auto-évaluation en début et fin de formation",
+          "Plan d'action personnel",
+          "Évaluations formatives après chaque session",
+          "Simulations évaluées"
+        ],
+        "formateur": "Consultant expert certifié",
+        "sanction": "Attestation de formation",
+        "edition": "Édition 1 - novembre 2025"
+      }
+    },
+    {
+      "id": "64ec8d3a-cdf8-4ae6-a638-c494146c00b0",
+      "titre": "Atelier de Facilitation en Management",
+      "description": "Un atelier intensif d'une semaine pour développer les compétences de facilitation essentielles au management moderne. Les participants apprendront à animer des réunions productives, faciliter la collaboration d'équipe et gérer les dynamiques de groupe pour atteindre des résultats concrets.",
+      "publicCible": "Managers, chefs d'équipe, responsables de projet et professionnels RH souhaitant développer leurs compétences en facilitation",
+      "formatParDefaut": "5j",
+      "formats": {
+        "5j": {
+          "id": "5j",
+          "titre": "Formation complète 5 jours",
+          "description": "Programme complet avec mise en pratique et plan d'action personnel",
+          "joursInclus": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "4j": {
+          "id": "4j",
+          "titre": "Version intermédiaire 4 jours",
+          "description": "Formation approfondie",
+          "joursInclus": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "3j": {
+          "id": "3j",
+          "titre": "Version intensive 3 jours",
+          "description": "Formation concentrée sur les fondamentaux",
+          "joursInclus": [
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      "prerequis": "Aucun prérequis spécifique",
+      "modaliteAcces": "Formation en présentiel",
+      "effectif": "8 à 12 participants",
+      "accessibilite": "Accessible aux personnes à mobilité réduite",
+      "objectifs": [
+        "Identifier les caractéristiques et responsabilités clés du manager-facilitateur dans un contexte professionnel moderne",
+        "Développer une posture facilitatrice basée sur la neutralité, l'écoute active et la présence authentique",
+        "Maîtriser les principes fondamentaux de la facilitation : cadrage, régulation, et création d'un espace sécurisé",
+        "Concevoir et structurer des réunions efficaces en fonction de leurs objectifs spécifiques",
+        "Appliquer des techniques d'animation pour maintenir l'engagement et la participation active"
+      ],
+      "jours": [
+        {
+          "numero": 1,
+          "titre": "Fondamentaux de la Facilitation",
+          "description": "Comprendre le rôle du manager-facilitateur et maîtriser les bases de la posture facilitatrice. Les participants découvriront les principes clés de la facilitation et développeront leur présence et leur écoute active.",
+          "duree": "8h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Le Manager-Facilitateur : Nouveau Paradigme du Leadership",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre l'évolution du rôle managérial vers la facilitation",
+                "Distinguer management directif, participatif et facilitation"
+              ],
+              "activites": [
+                {
+                  "titre": "Du management traditionnel à la facilitation : évolution et contexte",
+                  "type": "presentation",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Partage d'expériences : nos pratiques managériales actuelles",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Étude de cas : identifier les postures managériales en situation",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Début de la charte : rédiger sa définition personnelle de la facilitation",
+                  "type": "workshop",
+                  "duree": "60min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "La Posture Facilitatrice : Neutralité, Écoute et Présence",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Développer une présence authentique et une écoute active de qualité",
+                "Pratiquer la neutralité et la non-directivité en facilitation"
+              ],
+              "activites": [
+                {
+                  "titre": "Les trois piliers de la posture facilitatrice",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Pratique de l'écoute active en binôme avec feedback",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Jeu de rôle : maintenir la neutralité face aux tensions",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Compléter la charte : formuler ses 5 engagements de posture",
+                  "type": "workshop",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Principes Fondamentaux : Cadrer, Réguler, Sécuriser",
+              "duree": "2h30",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques de cadrage d'une session de facilitation",
+                "Créer et maintenir un espace de sécurité psychologique pour le groupe"
+              ],
+              "activites": [
+                {
+                  "titre": "Les 3 responsabilités essentielles du facilitateur",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier pratique : concevoir un cadrage efficace pour différents contextes",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Réflexion collective : créer la sécurité psychologique dans nos équipes",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Finalisation de la charte : principes d'action et plan de développement",
+                  "type": "workshop",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titre": "Techniques d'Animation de Réunions",
+          "description": "Maîtriser les méthodes et outils pour concevoir et animer des réunions efficaces. Les participants apprendront à structurer les discussions, gérer le temps et maintenir l'engagement des participants.",
+          "duree": "8h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Architecture et Conception de Réunions Efficaces",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier les différents types de réunions et leurs caractéristiques spécifiques",
+                "Concevoir la structure optimale d'une réunion en fonction de son objectif"
+              ],
+              "activites": [
+                {
+                  "titre": "Anatomie d'une réunion réussie : les 7 éléments essentiels",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Diagnostic : analyse de réunions vécues (réussites et échecs)",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Conception collaborative de templates pour 4 types de réunions",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Partage et feedback sur les structures créées",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Techniques d'Animation et Engagement des Participants",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Maîtriser des techniques d'animation variées pour différentes phases de réunion",
+                "Expérimenter des outils visuels et collaboratifs pour dynamiser les échanges"
+              ],
+              "activites": [
+                {
+                  "titre": "Panorama des techniques d'animation : du check-in au débriefing",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier pratique : rotation sur 5 techniques d'animation",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Simulation : animation de micro-réunions en sous-groupes",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Documentation des techniques expérimentées et retours d'expérience",
+                  "type": "reflection",
+                  "duree": "40min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Gestion des Dynamiques et Situations Complexes",
+              "duree": "2h30",
+              "objectifsApprentissage": [
+                "Identifier et gérer les comportements difficiles en réunion",
+                "Développer des stratégies pour maintenir la productivité face aux obstacles"
+              ],
+              "activites": [
+                {
+                  "titre": "Cartographie des situations difficiles vécues par les participants",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Stratégies de régulation : techniques verbales et non-verbales",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Jeux de rôle : gestion de 6 scénarios difficiles",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Co-création du guide de gestion des dynamiques",
+                  "type": "workshop",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titre": "Facilitation de la Collaboration",
+          "description": "Développer des compétences pour faciliter la co-création et l'intelligence collective. Les participants expérimenteront des techniques de brainstorming, de prise de décision collaborative et de résolution de problèmes en groupe.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 5,
+              "titre": "Techniques de Brainstorming et Génération d'Idées",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Expérimenter 5 techniques de brainstorming différentes",
+                "Comprendre quand et pourquoi utiliser chaque technique",
+                "Développer des compétences d'animation de sessions créatives"
+              ],
+              "activites": [
+                {
+                  "titre": "Les Fondements de l'Intelligence Collective",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Brainstorming Classique vs. Brainwriting",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Rotation des Techniques: SCAMPER, World Café, et 6-3-5",
+                  "type": "workshop",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Débriefing: Quand Utiliser Quelle Technique",
+                  "type": "discussion",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 6,
+              "titre": "Convergence et Prise de Décision Collaborative",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques de convergence pour passer de nombreuses idées à des décisions concrètes",
+                "Faciliter des processus de prise de décision incluant toutes les voix",
+                "Gérer les désaccords et construire le consensus"
+              ],
+              "activites": [
+                {
+                  "titre": "De la Divergence à la Convergence: Le Double Diamant",
+                  "type": "presentation",
+                  "duree": "25min"
+                },
+                {
+                  "titre": "Techniques de Tri et Priorisation (Dot Voting, Matrice Impact/Effort)",
+                  "type": "exercise",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Facilitation d'une Décision Collaborative Complexe",
+                  "type": "workshop",
+                  "duree": "65min"
+                },
+                {
+                  "titre": "Gestion des Blocages et Construction du Consensus",
+                  "type": "discussion",
+                  "duree": "40min"
+                }
+              ]
+            },
+            {
+              "numero": 7,
+              "titre": "Dynamiques de Groupe et Pratique de Facilitation",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Identifier et gérer les rôles et dynamiques dans les groupes",
+                "Pratiquer la facilitation d'ateliers collaboratifs en situation réelle",
+                "Recevoir et intégrer du feedback sur sa posture de facilitateur"
+              ],
+              "activites": [
+                {
+                  "titre": "Psychologie des Groupes: Rôles, Phases et Dynamiques",
+                  "type": "presentation",
+                  "duree": "35min"
+                },
+                {
+                  "titre": "Gestion des Personnalités Difficiles: Jeux de Rôle",
+                  "type": "exercise",
+                  "duree": "55min"
+                },
+                {
+                  "titre": "Mise en Pratique: Facilitation d'Ateliers en Sous-Groupes",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Feedback Croisé et Intégration des Apprentissages",
+                  "type": "reflection",
+                  "duree": "40min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titre": "Gestion des Dynamiques et Conflits",
+          "description": "Apprendre à naviguer les tensions, gérer les personnalités difficiles et transformer les conflits en opportunités. Les participants développeront des stratégies pour maintenir un climat constructif même dans des situations complexes.",
+          "duree": "9h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Comprendre et Décoder les Dynamiques de Groupe",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier les différents types de dynamiques de groupe",
+                "Reconnaître les signaux d'alerte de tensions émergentes",
+                "Développer une grille d'analyse pour cartographier les dynamiques d'équipe"
+              ],
+              "activites": [
+                {
+                  "titre": "Les fondamentaux des dynamiques de groupe",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Analyse de cas vidéo - Identifier les dynamiques",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cartographie des dynamiques de vos propres équipes",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Partage et enrichissement des analyses",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Techniques de Gestion et Médiation de Conflits",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques de médiation et résolution de conflits",
+                "Développer des protocoles adaptés aux différents types de conflits",
+                "Pratiquer la facilitation de conversations difficiles"
+              ],
+              "activites": [
+                {
+                  "titre": "Les niveaux de conflits et approches de résolution",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Jeux de rôle - Médiation de conflits interpersonnels",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Conception de protocoles de gestion de conflits",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Débriefing et identification des apprentissages clés",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Gérer les Personnalités Difficiles et Situations Complexes",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier et comprendre les différents profils de personnalités difficiles",
+                "Développer des stratégies spécifiques pour chaque type de profil",
+                "Transformer les tensions en opportunités d'amélioration"
+              ],
+              "activites": [
+                {
+                  "titre": "Typologie des personnalités difficiles en contexte professionnel",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Simulations de situations complexes avec feedback pairs",
+                  "type": "exercise",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Élaboration de stratégies personnalisées",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Consolidation et plan d'action personnel",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titre": "Intégration et Plan d'Action",
+          "description": "Synthétiser les apprentissages et créer un plan d'action personnel pour intégrer la facilitation dans sa pratique managériale. Les participants présenteront leurs projets et recevront du feedback du groupe.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Synthèse et Réflexion Personnelle",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Réaliser une réflexion structurée sur les apprentissages de la semaine",
+                "Identifier les compétences prioritaires à développer dans son contexte",
+                "Commencer la rédaction du plan d'action personnel"
+              ],
+              "activites": [
+                {
+                  "titre": "Cartographie des Apprentissages",
+                  "type": "reflection",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Auto-Évaluation Avant/Après",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Partage en Binômes : Insights Clés",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Rédaction du Bilan et Diagnostic",
+                  "type": "workshop",
+                  "duree": "60min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Élaboration du Plan d'Action",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Définir des actions concrètes et réalistes pour les 3 prochains mois",
+                "Anticiper les défis et préparer des stratégies de contournement",
+                "Finaliser son plan d'action personnel avec indicateurs de succès"
+              ],
+              "activites": [
+                {
+                  "titre": "Méthodologie du Plan d'Action Efficace",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier de Planification Trimestrielle",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Identification des Ressources et Alliés",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Feedback Croisé en Petits Groupes",
+                  "type": "discussion",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Présentations et Engagement",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Présenter son projet de facilitation devant le groupe",
+                "Recevoir et donner du feedback constructif selon les principes appris",
+                "S'engager publiquement sur ses premiers pas et créer un réseau de soutien"
+              ],
+              "activites": [
+                {
+                  "titre": "Finalisation des Plans d'Action",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Présentations Individuelles (7 min chacun)",
+                  "type": "workshop",
+                  "duree": "120min"
+                },
+                {
+                  "titre": "Session de Feedback Structuré",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Création du Réseau de Soutien Post-Atelier",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Cérémonie d'Engagement et Clôture",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "demarchePedagogique": {
+        "methodes": [
+          "Apports théoriques ciblés",
+          "Feedback 360° et peer-learning",
+          "Mises en situation et jeux de rôles",
+          "Ateliers collaboratifs",
+          "Pédagogie active et expérientielle"
+        ],
+        "moyens": [
+          "Supports visuels et outils digitaux",
+          "Boîte à outils pratiques"
+        ],
+        "evaluation": [
+          "Plan d'action personnel",
+          "Évaluations formatives après chaque session",
+          "Auto-évaluation en début et fin de formation",
+          "Simulations évaluées"
+        ],
+        "formateur": "Consultant expert certifié",
+        "sanction": "Attestation de formation",
+        "edition": "Édition 1 - novembre 2025"
+      }
+    },
+    {
+      "id": "9b6ea052-139b-48eb-bdf1-5c43aba6259d",
+      "titre": "RSE et Management d'Équipe : Piloter la Performance Durable",
+      "description": "Atelier intensif de 3 jours pour développer les compétences managériales nécessaires à l'intégration de la Responsabilité Sociétale des Entreprises (RSE) dans le pilotage quotidien des équipes. Les participants apprendront à transformer les enjeux RSE en leviers de performance collective et d'engagement.",
+      "publicCible": "Managers d'équipe, chefs de projet, responsables de service souhaitant intégrer la RSE dans leurs pratiques managériales",
+      "formatParDefaut": "4j",
+      "formats": {
+        "4j": {
+          "id": "4j",
+          "titre": "Formation complète 4 jours",
+          "description": "Programme complet avec mise en pratique et plan d'action personnel",
+          "joursInclus": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "3j": {
+          "id": "3j",
+          "titre": "Version intermédiaire 3 jours",
+          "description": "Formation approfondie",
+          "joursInclus": [
+            1,
+            2,
+            3
+          ]
+        },
+        "2j": {
+          "id": "2j",
+          "titre": "Version intensive 2 jours",
+          "description": "Formation concentrée sur les fondamentaux",
+          "joursInclus": [
+            1,
+            2
+          ]
+        }
+      },
+      "prerequis": "Aucun prérequis spécifique",
+      "modaliteAcces": "Formation en présentiel",
+      "effectif": "8 à 12 participants",
+      "accessibilite": "Accessible aux personnes à mobilité réduite",
+      "objectifs": [
+        "Maîtriser les 7 piliers de la RSE (ISO 26000) et leur application concrète en entreprise",
+        "Identifier les impacts de la RSE sur le rôle du manager et les attentes des collaborateurs",
+        "Analyser les pratiques managériales actuelles au regard des enjeux RSE",
+        "Définir sa vision personnelle du management responsable et durable",
+        "Identifier et adopter les postures managériales favorisant l'inclusion et la participation de tous les membres de l'équipe"
+      ],
+      "jours": [
+        {
+          "numero": 1,
+          "titre": "Comprendre les Fondamentaux RSE et leur Impact Managérial",
+          "description": "Les participants découvrent les principes clés de la RSE et identifient comment ces enjeux transforment le rôle du manager et les attentes des équipes.",
+          "duree": "8h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Les Fondamentaux de la RSE : Cadre, Enjeux et Opportunités",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre l'évolution historique et le cadre réglementaire de la RSE",
+                "S'approprier les 7 piliers de l'ISO 26000 avec des exemples concrets",
+                "Identifier les bénéfices business et humains d'une démarche RSE"
+              ],
+              "activites": [
+                {
+                  "titre": "Genèse et cadre de la RSE : du rapport Brundtland à la CSRD",
+                  "type": "presentation",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Quiz interactif : mythes et réalités de la RSE",
+                  "type": "exercise",
+                  "duree": "20min"
+                },
+                {
+                  "titre": "Décryptage des 7 piliers ISO 26000 en sous-groupes",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Partage plénière : exemples d'entreprises inspirantes en RSE",
+                  "type": "discussion",
+                  "duree": "35min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "RSE et Management : Nouveaux Rôles, Nouvelles Attentes",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre comment la RSE transforme les 5 fonctions clés du management (PODC + Animation)",
+                "Identifier les nouvelles attentes des collaborateurs en matière de sens et d'impact",
+                "Reconnaître les signaux faibles RSE dans son quotidien managérial"
+              ],
+              "activites": [
+                {
+                  "titre": "L'évolution du rôle du manager à l'ère de la RSE",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Table ronde : les attentes des nouvelles générations et la quête de sens",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cas pratiques : situations managériales avec enjeux RSE cachés",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Auto-évaluation : mon profil de manager face aux enjeux RSE",
+                  "type": "reflection",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Diagnostic de Mon Équipe et Priorisation des Actions",
+              "duree": "2h30",
+              "objectifsApprentissage": [
+                "Réaliser un diagnostic RSE factuel de son équipe selon les 7 piliers",
+                "Prioriser les enjeux RSE les plus pertinents pour son contexte",
+                "Définir 3 actions concrètes et mesurables à mettre en œuvre rapidement"
+              ],
+              "activites": [
+                {
+                  "titre": "Atelier diagnostic : cartographie RSE de mon équipe (grille ISO 26000)",
+                  "type": "workshop",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Matrice de priorisation : impact vs faisabilité des actions RSE",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Construction du plan d'actions à 90 jours",
+                  "type": "workshop",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titre": "Développer un Leadership Responsable et Inclusif",
+          "description": "Les participants expérimentent des pratiques managériales alignées avec les valeurs RSE : communication transparente, gestion participative, et prise en compte du bien-être collectif.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Les Fondamentaux du Leadership Responsable",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre les dimensions du leadership responsable et inclusif",
+                "Identifier ses propres pratiques managériales à faire évoluer"
+              ],
+              "activites": [
+                {
+                  "titre": "Leadership responsable : définition, enjeux et impacts sur la performance durable",
+                  "type": "presentation",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Auto-diagnostic : Ma posture managériale au regard des principes RSE",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Études de cas : Leaders responsables inspirants et leurs pratiques",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Atelier collaboratif : Définir les principes de leadership inclusif de notre charte",
+                  "type": "workshop",
+                  "duree": "60min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Communication Transparente et Gestion Participative",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques de communication responsable et transparente",
+                "Concevoir des dispositifs de décision participative adaptés à son contexte"
+              ],
+              "activites": [
+                {
+                  "titre": "Communication managériale responsable : transparence, écoute active et feedback constructif",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Jeux de rôle : Situations managériales nécessitant transparence et écoute",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Méthodes de décision participative et intelligence collective",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Conception des pratiques de communication et des dispositifs participatifs de la charte",
+                  "type": "workshop",
+                  "duree": "90min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Bien-être Collectif et Indicateurs de Performance Responsable",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Intégrer la dimension bien-être dans le pilotage de l'équipe",
+                "Définir des indicateurs pertinents pour mesurer la performance responsable"
+              ],
+              "activites": [
+                {
+                  "titre": "Bien-être au travail et qualité de vie : leviers d'action managériaux",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Débat : Équilibre entre performance économique et bien-être collectif",
+                  "type": "discussion",
+                  "duree": "35min"
+                },
+                {
+                  "titre": "Finalisation de la charte : dispositifs de bien-être et engagements mesurables",
+                  "type": "workshop",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Présentation croisée des chartes et feedback entre pairs",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titre": "Mobiliser et Engager son Équipe autour de la RSE",
+          "description": "Les participants apprennent à créer une dynamique d'équipe autour des objectifs RSE, à gérer les résistances et à transformer les valeurs en actions concrètes.",
+          "duree": "9h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Co-construire la Vision RSE de l'Équipe",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques d'intelligence collective pour faire émerger une vision partagée",
+                "Identifier les valeurs RSE prioritaires pour son équipe et les traduire en ambitions concrètes"
+              ],
+              "activites": [
+                {
+                  "titre": "Les principes de la construction participative : du top-down au co-design",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier World Café : faire émerger les valeurs RSE prioritaires de l'équipe",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Formalisation de la vision RSE partagée et test de cohérence",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Retour d'expérience et identification des pièges à éviter",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Transformer les Résistances en Engagement",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Analyser les différents types de résistances à la RSE et comprendre leurs sources",
+                "Développer des stratégies d'accompagnement adaptées aux profils de collaborateurs"
+              ],
+              "activites": [
+                {
+                  "titre": "Cartographie des résistances : cynisme, surcharge, incompréhension, peur du changement",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Étude de cas : résistances rencontrées dans vos équipes",
+                  "type": "discussion",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Atelier de co-développement : stratégies pour transformer les freins en leviers",
+                  "type": "workshop",
+                  "duree": "75min"
+                },
+                {
+                  "titre": "Construction de la matrice d'accompagnement différencié",
+                  "type": "exercise",
+                  "duree": "35min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Installer les Rituels et la Reconnaissance RSE",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Concevoir des rituels managériaux efficaces pour maintenir la dynamique RSE",
+                "Créer un système de reconnaissance équilibré entre formel et informel"
+              ],
+              "activites": [
+                {
+                  "titre": "L'art des rituels managériaux : ancrer la RSE dans le quotidien",
+                  "type": "presentation",
+                  "duree": "35min"
+                },
+                {
+                  "titre": "Design de rituels : réunions, points d'équipe, célébrations collectives",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Atelier créatif : inventer des formes de reconnaissance innovantes",
+                  "type": "workshop",
+                  "duree": "70min"
+                },
+                {
+                  "titre": "Test de faisabilité et ajustements : ce qui fonctionnera dans mon contexte",
+                  "type": "reflection",
+                  "duree": "35min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titre": "Piloter la Performance Durable : Indicateurs et Plan d'Action",
+          "description": "Les participants construisent un système de pilotage intégrant des indicateurs RSE, et élaborent un plan d'action personnalisé pour leur équipe avec des objectifs mesurables.",
+          "duree": "8h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Construire son Tableau de Bord RSE",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier les indicateurs RSE pertinents pour son contexte managérial",
+                "Concevoir un tableau de bord équilibré intégrant les trois piliers RSE"
+              ],
+              "activites": [
+                {
+                  "titre": "Les familles d'indicateurs RSE : économiques, sociaux, environnementaux et leurs interdépendances",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Auto-diagnostic : cartographie des pratiques RSE actuelles de mon équipe",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Atelier de sélection d'indicateurs : du général au spécifique pour mon équipe",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Partage en binômes : critique constructive des tableaux de bord en construction",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Définir des Objectifs SMART et Mobilisateurs",
+              "duree": "2h30",
+              "objectifsApprentissage": [
+                "Formuler des objectifs SMART intégrant les dimensions RSE",
+                "Aligner objectifs individuels, collectifs et stratégie RSE de l'organisation"
+              ],
+              "activites": [
+                {
+                  "titre": "La méthode SMART appliquée aux enjeux RSE : spécificités et pièges à éviter",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Transformation d'intentions RSE en objectifs SMART pour mon équipe",
+                  "type": "exercise",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Atelier de cohérence : vérifier l'alignement stratégique et l'équilibre des piliers RSE",
+                  "type": "workshop",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Anticipation des obstacles et identification des leviers de réussite",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Élaborer et Piloter son Plan d'Action",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Construire un plan d'action opérationnel et réaliste",
+                "Définir les modalités de suivi, d'ajustement et de communication"
+              ],
+              "activites": [
+                {
+                  "titre": "Méthodes de planification et outils de suivi : du Gantt au management visuel RSE",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Construction collaborative du plan d'action : actions, responsabilités, ressources, échéances",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Table ronde : stratégies de communication et d'engagement de l'équipe autour du plan RSE",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Finalisation individuelle et engagement personnel : mes premiers pas dès lundi",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "demarchePedagogique": {
+        "methodes": [
+          "Apports théoriques ciblés",
+          "Mises en situation et jeux de rôles",
+          "Ateliers collaboratifs",
+          "Feedback 360° et peer-learning",
+          "Pédagogie active et expérientielle"
+        ],
+        "moyens": [
+          "Supports visuels et outils digitaux",
+          "Boîte à outils pratiques"
+        ],
+        "evaluation": [
+          "Auto-évaluation en début et fin de formation",
+          "Plan d'action personnel",
+          "Évaluations formatives après chaque session",
+          "Simulations évaluées"
+        ],
+        "formateur": "Consultant expert certifié",
+        "sanction": "Attestation de formation",
+        "edition": "Édition 1 - novembre 2025"
+      }
+    },
+    {
+      "id": "4d8b01a5-9bbe-49c8-b655-5b90c50789b5",
+      "titre": "Communication Non-Violente pour Managers",
+      "description": "Formation intensive d'une semaine pour développer les compétences en Communication Non-Violente (CNV) dans un contexte managérial. Les participants apprendront à transformer les conflits en opportunités de collaboration et à créer un environnement de travail plus humain et performant.",
+      "publicCible": "Managers, chefs d'équipe et leaders souhaitant améliorer leur communication et gestion d'équipe",
+      "formatParDefaut": "5j",
+      "formats": {
+        "5j": {
+          "id": "5j",
+          "titre": "Formation complète 5 jours",
+          "description": "Programme complet avec mise en pratique et plan d'action personnel",
+          "joursInclus": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "4j": {
+          "id": "4j",
+          "titre": "Version intermédiaire 4 jours",
+          "description": "Formation approfondie",
+          "joursInclus": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "3j": {
+          "id": "3j",
+          "titre": "Version intensive 3 jours",
+          "description": "Formation concentrée sur les fondamentaux",
+          "joursInclus": [
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      "prerequis": "Aucun prérequis spécifique",
+      "modaliteAcces": "Formation en présentiel",
+      "effectif": "8 à 12 participants",
+      "accessibilite": "Accessible aux personnes à mobilité réduite",
+      "objectifs": [
+        "Identifier et distinguer les observations objectives des jugements et interprétations dans les situations professionnelles",
+        "Reconnaître et nommer ses propres sentiments et ceux de ses collaborateurs dans le contexte managérial",
+        "Comprendre la distinction entre besoins universels et stratégies spécifiques dans la communication d'équipe",
+        "Formuler des demandes claires, réalisables et négociables plutôt que des exigences",
+        "Identifier et nommer avec précision ses propres émotions dans des situations managériales complexes"
+      ],
+      "jours": [
+        {
+          "numero": 1,
+          "titre": "Fondamentaux de la CNV",
+          "description": "Découvrir les quatre composantes de la CNV (Observation, Sentiment, Besoin, Demande) et comprendre comment elles transforment la communication managériale. Les participants expérimenteront la différence entre jugement et observation.",
+          "duree": "8h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Les deux piliers de la CNV : Observation et Sentiment",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Maîtriser la distinction entre observation objective et jugement évaluatif",
+                "Développer son vocabulaire émotionnel pour identifier et nommer précisément ses sentiments"
+              ],
+              "activites": [
+                {
+                  "titre": "Introduction à la CNV et ses origines avec Marshall Rosenberg",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Jeu des étiquettes : Observation ou Jugement ?",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Pourquoi est-il si difficile d'observer sans juger dans le management ?",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Cartographie des émotions : palette de sentiments agréables et désagréables",
+                  "type": "workshop",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Auto-évaluation : mes patterns habituels de jugement",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Besoins universels et leur rôle dans la communication",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier les besoins universels derrière les émotions et comportements",
+                "Comprendre la différence entre besoins (universels) et stratégies (contextuelles)"
+              ],
+              "activites": [
+                {
+                  "titre": "La théorie des besoins humains fondamentaux appliquée au management",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Des stratégies aux besoins : décoder les demandes de vos collaborateurs",
+                  "type": "exercise",
+                  "duree": "50min"
+                },
+                {
+                  "titre": "Création collective : la roue des besoins managériaux",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Mes besoins professionnels actuellement satisfaits et insatisfaits",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "L'art de la demande : de l'exigence à la négociation",
+              "duree": "2h30",
+              "objectifsApprentissage": [
+                "Formuler des demandes claires, concrètes et réalisables",
+                "Distinguer demande (négociable) et exigence (non-négociable)"
+              ],
+              "activites": [
+                {
+                  "titre": "Les trois critères d'une demande efficace en CNV",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Transformation : convertir 10 exigences managériales en demandes CNV",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Jeux de rôle : formuler des demandes dans des situations managériales délicates",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Synthèse personnelle : intégrer OSBD dans ma pratique managériale",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titre": "Auto-empathie et Intelligence Émotionnelle",
+          "description": "Développer la capacité à identifier ses propres émotions et besoins en tant que manager. Apprendre à gérer son stress et ses réactions automatiques dans les situations managériales difficiles.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Anatomie des Émotions du Manager",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre le rôle des émotions comme signal des besoins",
+                "Développer un vocabulaire émotionnel précis et nuancé"
+              ],
+              "activites": [
+                {
+                  "titre": "Le cerveau émotionnel du manager : neurosciences et CNV",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Vocabulaire émotionnel : différencier 50 nuances d'émotions",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Auto-diagnostic : ma météo émotionnelle de manager",
+                  "type": "reflection",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Partage en binômes : nos émotions taboues en management",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cas pratiques : identifier les émotions dans des situations managériales",
+                  "type": "exercise",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Des Émotions aux Besoins : la Connexion Intérieure",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Identifier les besoins universels derrière chaque émotion",
+                "Distinguer besoins authentiques et stratégies habituelles"
+              ],
+              "activites": [
+                {
+                  "titre": "La pyramide des besoins managériaux selon la CNV",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Atelier : de l'émotion au besoin en 4 étapes",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Décryptage : quels besoins derrière mes réactions automatiques?",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cercle de parole : besoins satisfaits et insatisfaits dans notre rôle",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "L'Auto-empathie en Action : Outils Pratiques",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Pratiquer l'auto-empathie comme processus de régulation émotionnelle",
+                "Construire une boîte à outils personnalisée pour les situations difficiles"
+              ],
+              "activites": [
+                {
+                  "titre": "L'auto-empathie : processus en 4 temps (OSBD appliqué à soi)",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Méditation guidée d'auto-empathie",
+                  "type": "exercise",
+                  "duree": "20min"
+                },
+                {
+                  "titre": "Simulation : pratiquer l'auto-empathie face à des situations stressantes",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Construction de ma boîte à outils d'auto-régulation",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Finalisation et partage volontaire du Journal d'Auto-empathie",
+                  "type": "reflection",
+                  "duree": "45min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titre": "Empathie et Écoute Active",
+          "description": "Maîtriser l'écoute empathique pour comprendre profondément les besoins de ses collaborateurs. Pratiquer l'empathie en situations de tension, démotivation ou conflit.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Fondements de l'Écoute Empathique",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Différencier empathie, sympathie et compassion en contexte managérial",
+                "Comprendre le lien entre écoute empathique et satisfaction des besoins"
+              ],
+              "activites": [
+                {
+                  "titre": "Les 4 niveaux d'écoute : empathique, active, sélective, passive",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Auto-diagnostic : Mon style d'écoute actuel en tant que manager",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Obstacles managériaux à l'empathie : urgence, solutions, jugements",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cartographie collaborative des besoins universels en milieu professionnel",
+                  "type": "workshop",
+                  "duree": "1h"
+                },
+                {
+                  "titre": "Identification de 3 situations managériales où l'empathie m'aurait aidé",
+                  "type": "reflection",
+                  "duree": "15min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Pratique de l'Écoute Empathique",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Maîtriser les techniques de reformulation empathique des besoins",
+                "Pratiquer l'écoute en situations de tension émotionnelle"
+              ],
+              "activites": [
+                {
+                  "titre": "Anatomie d'une reformulation empathique : structure et pièges à éviter",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Exercice en binômes : Identifier émotions et besoins à partir de phrases types",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Jeux de rôle : Écouter un collaborateur démotivé sans donner de conseils",
+                  "type": "workshop",
+                  "duree": "1h30"
+                },
+                {
+                  "titre": "Débriefing : Qu'est-ce qui rend l'écoute empathique difficile ?",
+                  "type": "discussion",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Documentation de 2 fiches de situations d'écoute dans le journal",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Empathie en Situations Complexes",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Appliquer l'écoute empathique dans des contextes de conflit ou de résistance",
+                "Développer un plan d'action personnel pour intégrer l'empathie dans son management"
+              ],
+              "activites": [
+                {
+                  "titre": "Empathie dans les conflits : accueillir l'agressivité et le silence",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Simulations avancées : Gérer une réclamation, un conflit d'équipe, un refus",
+                  "type": "workshop",
+                  "duree": "1h30"
+                },
+                {
+                  "titre": "Complétion des 3 dernières fiches de situations d'écoute",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Élaboration du Plan d'Action Empathique personnel pour mon contexte",
+                  "type": "reflection",
+                  "duree": "30min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titre": "Gestion des Conflits par la CNV",
+          "description": "Appliquer la CNV pour transformer les conflits d'équipe en dialogues constructifs. Développer des stratégies pour gérer les désaccords, les résistances et les tensions interpersonnelles.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 10,
+              "titre": "Anatomie du Conflit et Auto-Empathie",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Comprendre les mécanismes psychologiques du conflit et le rôle des besoins non satisfaits",
+                "Pratiquer l'auto-empathie comme préalable à toute médiation",
+                "Identifier ses propres déclencheurs et réactivités face aux conflits"
+              ],
+              "activites": [
+                {
+                  "titre": "Les 7 niveaux d'escalade du conflit et la place de la CNV",
+                  "type": "presentation",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Auto-diagnostic : Mon profil face au conflit",
+                  "type": "exercise",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Pratique de l'auto-empathie en situation conflictuelle",
+                  "type": "workshop",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Débriefing : Besoins cachés derrière mes réactions de manager",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Début de la cartographie des conflits de mon équipe",
+                  "type": "exercise",
+                  "duree": "30min"
+                }
+              ]
+            },
+            {
+              "numero": 11,
+              "titre": "Médiation et Facilitation de Dialogue",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Maîtriser le processus complet de médiation CNV en 6 étapes",
+                "Développer la capacité à maintenir une posture neutre et empathique",
+                "Gérer les dynamiques émotionnelles intenses pendant la médiation"
+              ],
+              "activites": [
+                {
+                  "titre": "Le processus de médiation CNV : structure et posture du médiateur",
+                  "type": "presentation",
+                  "duree": "40min"
+                },
+                {
+                  "titre": "Démonstration en direct : médiation d'un conflit simulé",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Ateliers en trio : pratiquer la médiation (médiateur/partie A/partie B)",
+                  "type": "workshop",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Défis de la posture : impartialité vs. responsabilité managériale",
+                  "type": "discussion",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Création du protocole de médiation personnalisé",
+                  "type": "exercise",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 12,
+              "titre": "Transformer Résistances et Objections",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Reconnaître les différentes formes de résistance (passive, active, dissimulée)",
+                "Utiliser la CNV pour accueillir les objections sans se mettre en position défensive",
+                "Créer des conditions propices à la résolution créative des désaccords"
+              ],
+              "activites": [
+                {
+                  "titre": "Résistance et objection : messages sur les besoins non entendus",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Études de cas : décoder les résistances dans vos équipes",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Jeux de rôle : gérer les objections récurrentes avec la CNV",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Rédaction des scripts de conversation pour situations difficiles",
+                  "type": "exercise",
+                  "duree": "45min"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titre": "Leadership Bienveillant et Plan d'Action",
+          "description": "Intégrer la CNV dans son style de management quotidien. Créer un plan d'action personnel pour maintenir et développer ces compétences dans son contexte professionnel spécifique.",
+          "duree": "10h",
+          "sessions": [
+            {
+              "numero": 1,
+              "titre": "Leadership Authentique et CNV",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Définir son propre style de leadership bienveillant",
+                "Comprendre comment la CNV transforme les dynamiques de pouvoir",
+                "Identifier les leviers d'influence positifs dans son management"
+              ],
+              "activites": [
+                {
+                  "titre": "Les modèles de leadership bienveillant et leurs principes fondateurs",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Auto-diagnostic : mon style de leadership actuel et mes aspirations",
+                  "type": "reflection",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Cartographie des situations managériales : où et comment utiliser la CNV",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Partage en binômes : défis et opportunités dans nos contextes respectifs",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titre": "Conception du Plan d'Action Personnel",
+              "duree": "4h",
+              "objectifsApprentissage": [
+                "Élaborer une vision claire et inspirante de son leadership",
+                "Définir des objectifs SMART alignés avec ses valeurs et son contexte",
+                "Concevoir des actions concrètes et réalisables"
+              ],
+              "activites": [
+                {
+                  "titre": "Vision board : visualiser son leadership bienveillant idéal",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Atelier SMART : transformer sa vision en objectifs mesurables",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Planification détaillée : actions hebdomadaires et mensuelles",
+                  "type": "exercise",
+                  "duree": "90min"
+                },
+                {
+                  "titre": "Feedback croisé sur les plans d'action en petits groupes",
+                  "type": "discussion",
+                  "duree": "45min"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titre": "Pérennisation et Engagement",
+              "duree": "3h",
+              "objectifsApprentissage": [
+                "Construire un système de soutien durable",
+                "Anticiper les obstacles et préparer des stratégies d'adaptation",
+                "S'engager personnellement dans la mise en œuvre"
+              ],
+              "activites": [
+                {
+                  "titre": "Stratégies de maintien des compétences et résistance au changement",
+                  "type": "presentation",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Construction de son réseau de soutien : mentorat, groupes de pratique, ressources",
+                  "type": "workshop",
+                  "duree": "60min"
+                },
+                {
+                  "titre": "Scénarios d'obstacles : prévoir et préparer ses réponses",
+                  "type": "exercise",
+                  "duree": "45min"
+                },
+                {
+                  "titre": "Lettre d'engagement à soi-même : formaliser ses intentions",
+                  "type": "reflection",
+                  "duree": "30min"
+                },
+                {
+                  "titre": "Cercle de clôture : partage des engagements et célébration",
+                  "type": "discussion",
+                  "duree": "15min"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "demarchePedagogique": {
+        "methodes": [
+          "Apports théoriques ciblés",
+          "Mises en situation et jeux de rôles",
+          "Feedback 360° et peer-learning",
+          "Ateliers collaboratifs",
+          "Pédagogie active et expérientielle"
+        ],
+        "moyens": [
+          "Supports visuels et outils digitaux",
+          "Boîte à outils pratiques"
+        ],
+        "evaluation": [
+          "Auto-évaluation en début et fin de formation",
+          "Plan d'action personnel",
+          "Évaluations formatives après chaque session",
+          "Simulations évaluées"
+        ],
+        "formateur": "Consultant expert certifié",
+        "sanction": "Attestation de formation",
+        "edition": "Édition 1 - novembre 2025"
+      }
+    }
+  ]
+}
